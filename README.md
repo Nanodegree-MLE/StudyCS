@@ -1,78 +1,40 @@
-# StudyCS
-# 면접을 위한 CS 전공지식 노트
+# 면접을 위한 CS 스터디
+---
 
-경쟁력 있는 엔지니어가 되려면 CS 지식은 필수입니다!
+## 스터디 소개
+📚 교재 : 면접을 위한 CS 전공지식 노트<BR>
+⏲ 시간 : 매일 오후 2시<BR>
+📆 날짜 : 3월 21일(화)부터 책 3회독하는 그 날까지<BR>
+👀 노션페이지 : https://www.notion.so/learningspoons/CS-ce6ff4d6d31d44e1b2d3aa5cd520af17?pvs=4
 
+면접을 위한 CS 전공지식 노트 책의 CHAPTER 1부터 끝까지<BR>
+모든 내용을 함께 공부하는 스터디입니다.
 
+경쟁력을 갖춘 개발자가 되려면, CS 지식은 필수입니다.<BR>
+이 스터디를 통해 CS에 대한 기본적인 지식을 갖추고 면접에도 대비할 수 있습니다.
 
-### 🔨  스터디 자료
+## 스터디 진행 방식
+1. 스터디 전날 커리큘럼에 맞춰 다같이 책을 읽어옵니다.
+2. 스터디 노션페이지에 해당 챕터에 대한 퀴즈를 만들어 봅니다.
+3. 한명의 발표자를 정하고 커리큘럼에 따라 발표를 진행하고 질의응답 시간을 가집니다.
+4. 한시간안에 스터디가 끝날 수 있도록 유동적으로 분량을 조정합니다.
 
-💪**교재 자료**
+## 스터디 자료
+💻 교재 : [면접을 위한 CS 전공지식 노트 - YES24](https://www.yes24.com/Product/Goods/108887922) <BR>
+💻 게더타운 : 노션페이지 참고<BR>
 
-**✅ 교재**
+## 커리큘럼
+❗ 커리큘럼은 순차적으로 업데이트 됩니다.
 
-[](https://product.kyobobook.co.kr/detail/S000001834833?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gad_source=1&gclid=CjwKCAiA5L2tBhBTEiwAdSxJXxYItoeSJuTts-9gTadoTnnSK5enPn0am1xbfbEpViuyfkXcHbpn-BoCttYQAvD_BwE)
+<details>
+<summary><b>✨ CHAPTER 1 디자인 패턴과 프로그래밍 패러다임</b></summary>
+<div markdown="1">       
 
-💪**스터디 자료**
+| 날짜 | 챕터                      | 발표자 | 발표자료 |
+|:----:|:------------------------ |:------:|:------:|
+| 03월 22일 | 1.1.1 싱글톤 패턴                      | 최병휘 |  |
+| 03월 22일 | 1.1.2 팩토리 패턴                      | 최병휘 |  |
+| 03월 22일 | 1.1.3 전략 패턴                      | 최병휘 |  |
 
-**✅ OT 자료**
-
-**✅ 게더 타운**
-
-**✅ 깃허브**
-
-### 🔨  커리큘럼
-
-🫡 하루에 스터디 시간이 한시간이 넘지 않도록 유동적으로 조정하고 있습니다.
-
-🫡 커리큘럼은 스터디의 상황에 따라 변할 수 있습니다.
-
-- **1장. 디자인 패턴과 프로그래밍 패러다임**
-    
-    [1.1 디자인 패턴](https://www.notion.so/0fa463637d96420690932f5458568df5?pvs=21)
-    
-    [1.2 프로그래밍 패러다임](https://www.notion.so/8834ba528d0945149e25e16357f059a1?pvs=21)
-    
-- **2장. 네트워크**
-    
-    [제목 없는 데이터베이스](https://www.notion.so/ed2f07a7a2024ddd89ce68c819d46f4f?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/0db76d05c36d4d57a37a02722d5d8ce9?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/e015567f9ee344e097ecc9bbb1bcb16e?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/0569be4970354b7ea593af65b4f0e867?pvs=21)
-    
-- **3장. 운영체제**
-    
-    [제목 없는 데이터베이스](https://www.notion.so/e3b6d63a81794570967817a5f83b1b78?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/b9d81fb9fac64671a605fe1a6162857a?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/ab804ef559b74cb99b28ad1343803396?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/2029865b504f4517be601870086b3551?pvs=21)
-    
-- **4장. 데이터베이스**
-    
-    [제목 없는 데이터베이스](https://www.notion.so/ec6a5a2f2e894858b135a809a082a585?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/e96b102a49b34d0f90d85342fd9dccc9?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/f7c1f1600d0a481ca0827f6f552681b1?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/771281d9ae9b4bf98bac42db44424068?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/6d0244b30575452f87f706acaa1621da?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/87a99ea948dd4a9ea613e6eb23c263f6?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/1c4bcce6b99642879b9aff7e71e703dc?pvs=21)
-    
-- **5장. 자료 구조**
-    
-    [제목 없는 데이터베이스](https://www.notion.so/3a9e569a16454c8b8215bb609bf01733?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/c8927cee0ed448e1831bcc980e1b8d07?pvs=21)
-    
-    [제목 없는 데이터베이스](https://www.notion.so/777753d4fcf3416b82bf51de851ac676?pvs=21)
+</div>
+</details>
